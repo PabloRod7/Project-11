@@ -1,6 +1,6 @@
-# Project-12-UserDefaults
+# UserDefaults Hacking with Swift
 
-https://www.hackingwithswift.com/read/12/overview
+Learn how to save user settings and data for later use.
 
 # Topics :
 UserDefaults, JSON, NSCoding, Codable
